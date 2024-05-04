@@ -1,0 +1,3 @@
+C:/C++/2024_PARCIAL2_BRYAN-MARTINEZ/cmake-build-debug/CMakeFiles/2024_PARCIAL2_BRYAN_MARTINEZ.dir
+C:/C++/2024_PARCIAL2_BRYAN-MARTINEZ/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C++/2024_PARCIAL2_BRYAN-MARTINEZ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
